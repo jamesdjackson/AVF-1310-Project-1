@@ -23,41 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="298" selection-end="349" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="1035">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Instagram.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Instagram.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="54" selection-start="730" selection-end="730" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="915">
-              <folding>
-                <marker date="1381453139000" expanded="true" signature="1497:1845" placeholder="..." />
-                <marker date="1381453139000" expanded="true" signature="1543:1695" placeholder="..." />
-                <marker date="1381453139000" expanded="true" signature="1626:1639" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flickr.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flickr.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="34" selection-start="580" selection-end="580" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="720">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="17" selection-start="573" selection-end="573" vertical-scroll-proportion="0.41958043" vertical-offset="0" max-vertical-offset="2640">
+            <state line="57" column="0" selection-start="2516" selection-end="2516" vertical-scroll-proportion="0.6223022" vertical-offset="336" max-vertical-offset="1425">
               <folding />
             </state>
           </provider>
@@ -79,17 +48,17 @@
         <option value="$USER_HOME$/Downloads/MiU-Project-3-master-master/GOLD/index2.html" />
         <option value="$PROJECT_DIR$/index1.html" />
         <option value="$PROJECT_DIR$/js/bootstrap.js" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/flickr.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Instagram.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1094" />
+    <option name="x" value="13" />
     <option name="y" value="22" />
-    <option name="width" value="1021" />
+    <option name="width" value="1326" />
     <option name="height" value="994" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -240,14 +209,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1094" y="22" width="1021" height="994" extended-state="0" />
-    <editor active="true" />
+    <frame x="13" y="22" width="1326" height="994" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34280118" sideWeight="0.6006674" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26395175" sideWeight="0.6006674" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -293,22 +262,19 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="17" selection-start="573" selection-end="573" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="2640" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Instagram.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="2174" selection-end="2231" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="960">
-          <folding>
-            <marker date="1381453139000" expanded="true" signature="1497:1845" placeholder="..." />
-            <marker date="1381453139000" expanded="true" signature="1543:1695" placeholder="..." />
-            <marker date="1381453139000" expanded="true" signature="1626:1639" placeholder="..." />
-          </folding>
-        </state>
+        <state line="54" column="0" selection-start="2174" selection-end="2231" vertical-scroll-proportion="0.0" vertical-offset="810" max-vertical-offset="960" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/brownTheme.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="1" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12165">
-          <folding />
-        </state>
+        <state line="25" column="1" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
@@ -355,53 +321,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="16" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.33203125" vertical-offset="190" max-vertical-offset="34020">
-          <folding />
-        </state>
+        <state line="41" column="16" selection-start="1480" selection-end="1480" vertical-scroll-proportion="0.33203125" vertical-offset="190" max-vertical-offset="34020" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/brownTheme.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="1" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12165">
-          <folding />
-        </state>
+        <state line="25" column="1" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12165" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../AVF_1310_iOS_REPO/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="15" selection-start="853" selection-end="1367" vertical-scroll-proportion="0.40731996" vertical-offset="0" max-vertical-offset="1305">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flickr.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="34" selection-start="580" selection-end="580" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="720">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="298" selection-end="349" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="1035">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Instagram.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="54" selection-start="730" selection-end="730" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="915">
-          <folding>
-            <marker date="1381453139000" expanded="true" signature="1497:1845" placeholder="..." />
-            <marker date="1381453139000" expanded="true" signature="1543:1695" placeholder="..." />
-            <marker date="1381453139000" expanded="true" signature="1626:1639" placeholder="..." />
-          </folding>
-        </state>
+        <state line="23" column="15" selection-start="853" selection-end="1367" vertical-scroll-proportion="0.40731996" vertical-offset="0" max-vertical-offset="1305" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="17" selection-start="573" selection-end="573" vertical-scroll-proportion="0.41958043" vertical-offset="0" max-vertical-offset="2640">
+        <state line="29" column="0" selection-start="652" selection-end="652" vertical-scroll-proportion="-3.1504018" vertical-offset="3179" max-vertical-offset="4050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flickr.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="30" selection-start="1601" selection-end="1601" vertical-scroll-proportion="0.6635183" vertical-offset="113" max-vertical-offset="960" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instagram.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="42" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="2516" selection-end="2516" vertical-scroll-proportion="0.6223022" vertical-offset="336" max-vertical-offset="1425">
           <folding />
         </state>
       </provider>
